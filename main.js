@@ -68,7 +68,7 @@ class Deepstatemap {
                     oldInfo = this.info.descriptionEn
                 }
                 console.log('Point')
-                await this.sleep(10000)
+                await this.sleep(900000)
                 console.log(this.info.descriptionEn)
                 console.log(oldInfo)
             }
