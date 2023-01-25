@@ -1,0 +1,31 @@
+{
+  "name": "deepstate-map-discord-bot",
+  "version": "1.0.0",
+  "description": "Bot for notification of changes on the front line according to deepstatemap",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SurprisedGuy/discord-bot-deepstatemap.git"
+  },
+  "keywords": [
+    "Deepstatemap",
+    "Russia",
+    "Ukraine",
+    "SMO",
+    "Speical Military Operation"
+  ],
+  "author": "Surprisedguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SurprisedGuy/discord-bot-deepstatemap/issues"
+  },
+  "homepage": "https://github.com/SurprisedGuy/discord-bot-deepstatemap#readme",
+  "dependencies": {
+    "axios": "^1.2.4",
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3"
+  }
+}
